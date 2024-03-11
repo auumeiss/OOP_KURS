@@ -25,7 +25,8 @@ Sevryukov Stepan 253504
 
 
 ## ================= Диаграмма классов приложения =================
-![ООП drawio (2)](https://github.com/auumeiss/OOP_KURS/assets/159965679/dc0a55cc-ed07-42d4-9ff1-867045299104)
+![ООП drawio (3)](https://github.com/auumeiss/OOP_KURS/assets/159965679/46fe4def-4974-48d0-a19f-b6114c886f90)
+
 
 
 
